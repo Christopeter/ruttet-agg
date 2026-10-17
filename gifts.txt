@@ -1,0 +1,4 @@
+# Presenter till specifika spelare. En rad per present:  ID|Sakens namn
+# ID:t visas uppe till hoger i spelet (t.ex. AB12CD34). Sakens namn maste vara exakt som i butiken.
+# Exempel (ta bort # for att aktivera):
+# AB12CD34|OG
