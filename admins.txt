@@ -1,0 +1,4 @@
+# Admin-ID:n, ett per rad. ID:t syns uppe till hoger i spelet (t.ex. AB12CD34).
+# De som star har pa listan kan trycka F9 i spelet och oppna admin-konsollen.
+# Exempel (ta bort # och skriv ditt eget ID):
+# AB12CD34
