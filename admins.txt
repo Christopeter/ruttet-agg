@@ -2,4 +2,4 @@
 # De som star har pa listan kan trycka F9 i spelet och oppna admin-konsollen.
 # Exempel (ta bort # och skriv ditt eget ID):
 # AB12CD34
-EE29086D
+02379797
