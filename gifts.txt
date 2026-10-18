@@ -2,4 +2,4 @@
 # ID:t visas uppe till hoger i spelet (t.ex. AB12CD34). Sakens namn maste vara exakt som i butiken.
 # Exempel (ta bort # for att aktivera):
 # AB12CD34|OG
-EE29086D|OG
+02379797|OG
